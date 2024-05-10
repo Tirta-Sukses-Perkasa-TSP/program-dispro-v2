@@ -1,0 +1,180 @@
+[Root]
+Most Recent Package=DISPRO
+
+
+[Package|DISPRO|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=D:\DISPRO1\INSTALLER_DISPRO
+
+[Package|DISPRO|Configure DAO ISAMs]
+Applicable=No
+
+[Package|DISPRO|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|DISPRO|Files Found]
+
+[Package|DISPRO|Files Released]
+
+[Package|DISPRO|Missing Dependency Information]
+C:\Windows\System32\PVMarq.ocx=
+C:\Windows\System32\NiceCmdBtn.ocx=
+C:\Windows\System32\IGThreed40.ocx=
+C:\Windows\System32\GradientdCap.ocx=
+C:\Windows\System32\PVLine.ocx=
+C:\Program Files\Common Files\Data Dynamics\ActiveReports Pro\ARVIEW2.OCX=
+C:\Program Files\Common Files\Data Dynamics\ActiveReports Pro\arpro2.dll=
+C:\Windows\System32\actskin4.ocx=
+C:\Program Files\Common Files\Data Dynamics\ActiveReports Pro\rtfexpt.dll=
+C:\Program Files\Common Files\Data Dynamics\ActiveReports Pro\pdfexpt.dll=
+C:\Program Files\Common Files\Data Dynamics\ActiveReports Pro\exclexpt.dll=
+C:\Program Files\Common Files\System\ado\msado26.tlb=
+C:\Windows\winsxs\x86_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.7601.17514_none_72d18a4386696c80\GdiPlus.dll=
+C:\Windows\System32\wininet.dll=
+C:\Windows\System32\vsflex8u.ocx=
+C:\Windows\System32\cPopMenu6.ocx=
+C:\Windows\System32\c1sizer.ocx=
+C:\Windows\System32\vbalIml6.ocx=
+C:\Windows\System32\vbalExpBar6.ocx=
+D:\DISPRO1\COMPONENT\SSubTmr6.dll=
+
+[Package|DISPRO|Out-of-Date Dependency Information]
+C:\Windows\System32\MSCOMCTL.OCX=
+C:\Windows\System32\COMDLG32.OCX=
+C:\Windows\System32\MSDATGRD.OCX=
+C:\Windows\System32\MSCOMCT2.OCX=
+C:\Windows\System32\MSCHRT20.OCX=
+C:\Windows\System32\MSWINSCK.OCX=
+C:\Windows\System32\scrrun.dll=
+
+[Package|DISPRO|Files Added]
+d:\dispro\gambar\mu.wmf=
+d:\dispro1\component\ssubtmr6.dll=
+
+[Package|DISPRO|Files Removed]
+
+[Package|DISPRO|Files In Project]
+C:\Windows\System32\msvbvm60.dll=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\Windows\System32\wininet.dll=Yes
+C:\Windows\winsxs\x86_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.7601.17514_none_72d18a4386696c80\GdiPlus.dll=Yes
+C:\Program Files\Common Files\System\ado\msado26.tlb=Yes
+C:\Program Files\Common Files\Data Dynamics\ActiveReports Pro\exclexpt.dll=Yes
+C:\Program Files\Common Files\Data Dynamics\ActiveReports Pro\pdfexpt.dll=Yes
+C:\Program Files\Common Files\Data Dynamics\ActiveReports Pro\rtfexpt.dll=Yes
+C:\Windows\System32\actskin4.ocx=Yes
+C:\Program Files\Common Files\Data Dynamics\ActiveReports Pro\arpro2.dll=Yes
+C:\Program Files\Common Files\Data Dynamics\ActiveReports Pro\ARVIEW2.OCX=Yes
+C:\Windows\System32\MSSTDFMT.DLL=Yes
+C:\Windows\System32\PVLine.ocx=Yes
+C:\Windows\System32\MSCOMCT2.OCX=Yes
+C:\Windows\System32\GradientdCap.ocx=Yes
+C:\Windows\System32\IGThreed40.ocx=Yes
+C:\Windows\System32\NiceCmdBtn.ocx=Yes
+C:\Windows\System32\MSDATGRD.OCX=Yes
+C:\Windows\System32\PVMarq.ocx=Yes
+C:\Windows\System32\COMDLG32.OCX=Yes
+C:\Windows\System32\MSCOMCTL.OCX=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\Windows\System32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+D:\DISPRO\GAMBAR\MU.wmf=Yes
+D:\DISPRO1\DISPRO.exe=Yes
+C:\Windows\System32\vsflex8u.ocx=Yes
+C:\Windows\System32\c1sizer.ocx=Yes
+C:\Windows\System32\cPopMenu6.ocx=Yes
+C:\Windows\System32\vbalExpBar6.ocx=Yes
+C:\Windows\System32\vbalIml6.ocx=Yes
+C:\Windows\System32\MSCHRT20.OCX=Yes
+D:\DISPRO1\COMPONENT\SSubTmr6.dll=Yes
+C:\Windows\System32\MSWINSCK.OCX=Yes
+C:\Windows\System32\scrrun.dll=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT.DLL=Yes
+
+[Package|DISPRO|Configure Registry Files]
+Applicable=No
+
+[Package|DISPRO|Configure Remote Servers]
+Applicable=No
+
+[Package|DISPRO|Install Locations]
+D:\DISPRO\DISPRO.exe=$(AppPath)
+C:\Windows\System32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\Windows\System32\wininet.dll=$(WinSysPath)
+C:\Windows\winsxs\x86_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.7601.17514_none_72d18a4386696c80\GdiPlus.dll=$(WinSysPath)
+C:\Program Files\Common Files\System\ado\msado26.tlb=$(WinSysPath)
+C:\Program Files\Common Files\Data Dynamics\ActiveReports Pro\exclexpt.dll=$(WinSysPath)
+C:\Program Files\Common Files\Data Dynamics\ActiveReports Pro\pdfexpt.dll=$(WinSysPath)
+C:\Program Files\Common Files\Data Dynamics\ActiveReports Pro\rtfexpt.dll=$(WinSysPath)
+C:\Windows\System32\actskin4.ocx=$(WinSysPath)
+C:\Program Files\Common Files\Data Dynamics\ActiveReports Pro\arpro2.dll=$(WinSysPath)
+C:\Program Files\Common Files\Data Dynamics\ActiveReports Pro\ARVIEW2.OCX=$(WinSysPath)
+C:\Windows\System32\MSSTDFMT.DLL=$(WinSysPath)
+C:\Windows\System32\PVLine.ocx=$(WinSysPath)
+C:\Windows\System32\MSCOMCT2.OCX=$(WinSysPath)
+C:\Windows\System32\GradientdCap.ocx=$(WinSysPath)
+C:\Windows\System32\IGThreed40.ocx=$(WinSysPath)
+C:\Windows\System32\NiceCmdBtn.ocx=$(WinSysPath)
+C:\Windows\System32\MSDATGRD.OCX=$(WinSysPath)
+C:\Windows\System32\PVMarq.ocx=$(WinSysPath)
+C:\Windows\System32\COMDLG32.OCX=$(WinSysPath)
+C:\Windows\System32\MSCOMCTL.OCX=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\Windows\System32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+D:\DISPRO\GAMBAR\MU.wmf=$(AppPath)
+D:\DISPRO1\DISPRO.exe=$(AppPath)
+C:\Windows\System32\vsflex8u.ocx=$(WinSysPath)
+C:\Windows\System32\c1sizer.ocx=$(WinSysPath)
+C:\Windows\System32\cPopMenu6.ocx=$(WinSysPath)
+C:\Windows\System32\vbalExpBar6.ocx=$(WinSysPath)
+C:\Windows\System32\vbalIml6.ocx=$(WinSysPath)
+C:\Windows\System32\MSCHRT20.OCX=$(WinSysPath)
+D:\DISPRO1\COMPONENT\SSubTmr6.dll=$(WinSysPath)
+C:\Windows\System32\MSWINSCK.OCX=$(WinSysPath)
+C:\Windows\System32\scrrun.dll=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT.DLL=$(WinSysPathSysFile)
+
+[Package|DISPRO|Configure Shared Files]
+Applicable=Yes
+D:\DISPRO\DISPRO.exe=Yes
+D:\DISPRO\GAMBAR\MU.wmf=Yes
+D:\DISPRO1\DISPRO.exe=Yes
+
+[Package|DISPRO|Distribution]
+Type=single
+Size=
+Title=DISPRO
+
+[Package|DISPRO|Package]
+PackageFolder=D:\DISPRO1\INSTALLER_DISPRO
+ProjectFolder=D:\DISPRO1
+ServerSideCab=
+File1=D:\DISPRO1\INSTALLER_DISPRO\setup.exe
+File2=D:\DISPRO1\INSTALLER_DISPRO\Setup.Lst
+File3=D:\DISPRO1\INSTALLER_DISPRO\DISPRO.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+[Package|DISPRO|IconGroups]
+Group0=DISPRO
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|DISPRO|DISPRO]
+Icon1=DISPRO.exe
+Title1=DISPRO
+StartIn1=$(AppPath)
+Key1=Icon1
